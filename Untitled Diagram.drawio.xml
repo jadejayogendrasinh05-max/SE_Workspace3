@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.3.8">
+  <diagram name="Page-1" id="WmXZlZSA1jjXcU6Buhj1">
+    <mxGraphModel dx="864" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jar_VT3yNIAgz5aLkisN-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="start" vertex="1">
+          <mxGeometry height="60" width="60" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-2" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="enter your age" vertex="1">
+          <mxGeometry height="50" width="120" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-4" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="300" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-8" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jar_VT3yNIAgz5aLkisN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-10" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jar_VT3yNIAgz5aLkisN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="age&amp;gt;=18" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="not eligible to vote" vertex="1">
+          <mxGeometry height="40" width="110" x="70" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-26" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" target="jar_VT3yNIAgz5aLkisN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="eligible to vote" vertex="1">
+          <mxGeometry height="40" width="120" x="430" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="500" as="sourcePoint" />
+            <mxPoint x="305" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-23" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="465" as="sourcePoint" />
+            <mxPoint x="267.97" y="454.99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="end" vertex="1">
+          <mxGeometry height="70" width="70" x="260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="jar_VT3yNIAgz5aLkisN-28" edge="1" parent="1" source="jar_VT3yNIAgz5aLkisN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" target="jar_VT3yNIAgz5aLkisN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
